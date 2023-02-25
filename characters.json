@@ -1,13 +1,18 @@
-[{
-  "id": "0"
-  "name": "Infinity",
-  "botLogos": "https://cdn-icons-png.flaticon.com/512/1745/1745079.png",
-  "buttonText": "setchar 0"
-},
-{
-  "id": "1"
-  "name": "Power MD",
-  "botLogos": "https://wallpapercave.com/wp/wp11253614.jpg",
-  "buttonText": "setchar 1"
-}]
-
+[
+  {
+    "id": "0",
+    "data": {
+      "name": "Infinity",
+      "botLogos": "https://cdn-icons-png.flaticon.com/512/1745/1745079.png",
+      "buttonText": "setchar 0"
+    }
+  },
+  {
+    "id": "1",
+    "data": {
+      "name": "Power MD",
+      "botLogos": "https://wallpapercave.com/wp/wp11253614.jpg",
+      "buttonText": "setchar 1"
+    }
+  }
+]
