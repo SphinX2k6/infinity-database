@@ -1,90 +1,90 @@
 [
   {
-      "id": "0"
+      "id": "0",
       "name": "Infinity",
       "botLogos": "https://cdn-icons-png.flaticon.com/512/1745/1745079.png",
       "buttonText": "setchar 0"
   },
   {
-    "id": "1"
+    "id": "1",
       "name": "Power MD",
       "botLogos": "https://i.pinimg.com/236x/b3/26/a6/b326a65db0ce77e69ea1ee9310c4c809.jpg",
       "buttonText": "setchar 1"
   },
   {
-    "id": "2"
+    "id": "2",
       "name": "Makima MD",
       "botLogos": "https://i.pinimg.com/236x/a0/76/3f/a0763f550b1fb15d04b00a6ae58b4fdd.jpg",
       "buttonText": "setchar 2"
   },
   {
-    "id": "3"
+    "id": "3",
       "name": "Denji MD",
       "botLogos": "https://i.pinimg.com/236x/40/e4/69/40e469c9335446c75001ff4a28114a10.jpg",
       "buttonText": "setchar 3"
   },
   {
-    "id": "4"
+    "id": "4",
       "name": "Zero Two MD",
       "botLogos": "https://i.pinimg.com/236x/40/08/77/4008774f8d67852fa700949d60c66869.jpg",
       "buttonText": "setchar 4"
   },
   {
-    "id": "5"
+    "id": "5",
       "name": "Chika MD",
       "botLogos": "https://i.pinimg.com/236x/ad/10/7c/ad107c7f45805a8eac79408075f925ac.jpg",
       "buttonText": "setchar 5"
   },
   {
-    "id": "6"
+    "id": "6",
       "name": "Miku Nakano MD",
       "botLogos": "https://i.pinimg.com/236x/8f/9d/c9/8f9dc9e74ff16d035d7e85f3cf890ea3.jpg",
       "buttonText": "setchar 6"
   },
   {
-    "id": "7"
+    "id": "7",
       "name": "Marin Kitaga MD",
       "botLogos": "hhttps://i.pinimg.com/236x/a4/4d/73/a44d733a9111644f45af6a60b707353d.jpg",
       "buttonText": "setchar 7"
   },
   {
-    "id": "8"
+    "id": "8",
       "name": "Sakura Matou MD",
       "botLogos": "https://i.pinimg.com/236x/5b/0c/7b/5b0c7b64a845676bbf04dffc3cd28858.jpg",
       "buttonText": "setchar 8"
   },
   {
-    "id": "9"
+    "id": "9",
       "name": "Naruto Uzumaki MD",
       "botLogos": "https://i.pinimg.com/236x/f0/8a/cc/f08acc6f4324576bc87e075ac95df020.jpg",
       "buttonText": "setchar 9"
   },
   {
-    "id": "10"
+    "id": "10",
       "name": "Lucy Heartfilia MD",
       "botLogos": "https://i.pinimg.com/236x/a1/56/0a/a1560a2745d862bd6e72475671de9cb0.jpg",
       "buttonText": "setchar 10"
   },
   {
-    "id": "11"
+    "id": "11",
       "name": "Son Goku MD",
       "botLogos": "https://i.pinimg.com/236x/7b/fc/55/7bfc552d74dc62662071be7215bb0127.jpg",
       "buttonText": "setchar 11"
   },
   {
-    "id": "12"
+    "id": "12",
       "name": "Luffy Monkey D.",
       "botLogos": "https://i.pinimg.com/236x/1b/aa/51/1baa516470fc278145718dd2048bdf6d.jpg",
       "buttonText": "setchar 12"
   },
   {
-    "id": "13"
+    "id": "13",
       "name": "Eru Chitanda MD",
       "botLogos": "https://i.pinimg.com/236x/db/e5/84/dbe58446a8bbb3e7a70a5f3cc973a568.jpg",
       "buttonText": "setchar 13"
   },
   {
-    "id": "14"
+    "id": "14",
       "name": "Houtaro Oreki MD",
       "botLogos": "https://i.pinimg.com/236x/ca/78/1c/ca781c68dadcb24140c6a90b8d5c44e2.jpg",
       "buttonText": "setchar 14"
