@@ -1,11 +1,10 @@
-
 [
   {
-    "id": "0"
+      "id": "0"
       "name": "Infinity",
       "botLogos": "https://cdn-icons-png.flaticon.com/512/1745/1745079.png",
       "buttonText": "setchar 0"
-  }
+  },
   {
     "id": "1"
       "name": "Power MD",
@@ -36,7 +35,6 @@
       "botLogos": "https://i.pinimg.com/236x/ad/10/7c/ad107c7f45805a8eac79408075f925ac.jpg",
       "buttonText": "setchar 5"
   },
-
   {
     "id": "6"
       "name": "Miku Nakano MD",
