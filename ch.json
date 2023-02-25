@@ -1,1 +1,77 @@
-[  {    "id": "0",    "name": "Infinity",    "botLogos": "https://cdn-icons-png.flaticon.com/512/1745/1745079.png",    "buttonText": "setchar 0"  },  {    "id": "1",    "name": "Power MD",    "botLogos": "https://i.pinimg.com/236x/b3/26/a6/b326a65db0ce77e69ea1ee9310c4c809.jpg",    "buttonText": "setchar 1"  }]
+[
+  {
+    "id": "0",
+    "name": "Infinity",
+    "buttonText": "setchar 0"
+  },
+  {
+    "id": "1",
+    "name": "Power MD",
+    "buttonText": "setchar 1"
+  },
+  {
+    "id": "2",
+    "name": "Makima MD",
+    "buttonText": "setchar 2"
+  },
+  {
+    "id": "3",
+    "name": "Denji MD",
+    "buttonText": "setchar 3"
+  },
+  {
+    "id": "4",
+    "name": "ZeroTwo MD",
+    "buttonText": "setchar 4"
+  },
+  {
+    "id": "5",
+    "name": "Chika MD",
+    "buttonText": "setchar 5"
+  },
+  {
+    "id": "6",
+    "name": "Miku MD",
+    "buttonText": "setchar 6"
+  },
+  {
+    "id": "7",
+    "name": "Marin MD",
+    "buttonText": "setchar 7"
+  },
+  {
+    "id": "8",
+    "name": "Sakura Matou MD",
+    "buttonText": "setchar 8"
+  },
+  {
+    "id": "9",
+    "name": "Naruto Uzumaki MD",
+    "buttonText": "setchar 9"
+  },
+  {
+    "id": "10",
+    "name": "Lucy Hearfilia MD",
+    "buttonText": "setchar 10"
+  },
+  {
+    "id": "11",
+    "name": "Son Goku MD",
+    "buttonText": "setchar 11"
+  },
+  {
+    "id": "12",
+    "name": "Luffy MD",
+    "buttonText": "setchar 12"
+  },
+  {
+    "id": "13",
+    "name": "Eru Chitanda MD",
+    "buttonText": "setchar 13"
+  },
+  {
+    "id": "14",
+    "name": "Houtaro Oreki MD",
+    "buttonText": "setchar 14"
+  }
+]
