@@ -2,5 +2,10 @@
   "name": "Infinity",
   "botLogos": "https://cdn-icons-png.flaticon.com/512/1745/1745079.png",
   "buttonText": "setchar 0"
+},
+{
+  "name": "Power MD",
+  "botLogos": "https://wallpapercave.com/wp/wp11253614.jpg",
+  "buttonText": "setchar 1"
 }]
 
