@@ -1,6 +1,7 @@
 [
   {
-    "charID0": {
+    "id": "charID0",
+    "data": {
       "botName": "Infinity MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/infinity/botv2.mp4",
       "botImage1": "https://cdn-icons-png.flaticon.com/128/1745/1745079.png",
@@ -10,8 +11,11 @@
       "botImage5": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/infinity/botp4.jpg",
       "botImage6": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/infinity/botp4.jpg",
       "noCMD": "🤖 Oops, it seems like I don't recognize that command, $1 senpai! Don't worry, I'm always learning and growing, so maybe it's a feature that can be added in the future! 😊\n\n In the meantime, why not check out all the other cool things I can do? Type $2help to see my full list of commands, or simply click the button below! 👇"
-    },
-    "charID1": {
+    }
+  }, 
+  {
+    "id": "charID1",
+    "data": {
       "botName": "Power MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/chain-saw/power.mp4",
       "botImage1": "https://wallpapercave.com/wp/wp11253614.jpg",
@@ -21,8 +25,11 @@
       "botImage5": "https://wallpapercave.com/wp/wp11733435.jpg",
       "botImage6": "https://wallpapercave.com/wp/wp11733458.jpg",
       "noCMD": "No command found, *$1-nyan*! 😿 \nPerhaps you could try using the *$2help* command or press the button below to see all of my available commands? 🤔👇"
+      }
     },
-    "charID2": {
+   {  
+    "id": "charID2",
+    "data": {
       "botName": "Makima MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/chain-saw/makima.mp4",
       "botImage1": "https://images5.alphacoders.com/126/1264439.jpg",
@@ -32,8 +39,11 @@
       "botImage5": "https://images2.alphacoders.com/128/1280153.jpg",
       "botImage6": "https://images7.alphacoders.com/129/1292566.png",
       "noCMD": "No such command programmed, $1. Why don't you try using the $2help command, or press the button below to see a list of all my available commands? 😉"
-    },
-    "charID3": {
+    }
+   },
+  {
+  "id": "charID0",
+    "data": {
       "botName": "Denji MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/chain-saw/denji.mp4",
       "botImage1": "https://i0.wp.com/metagalaxia.com.br/wp-content/uploads/2022/11/Chainsaw-Man-Denji-e-Power.webp?resize:1068%2C601&ssl:1",
@@ -43,8 +53,11 @@
       "botImage5": "https://images2.alphacoders.com/124/1247132.jpg",
       "botImage6": "https://images2.alphacoders.com/128/1286464.jpg",
       "noCMD": "No such command, *$1*! 😔\nLooks like I can't find what you're looking for, but don't worry, I'm always learning new things! Type *$2help* or press the button below to see all of my available commands! 🪚🩸"
-    },
-    "charID4": {
+    }
+  },
+  { 
+    "id": "charID0",
+    "data": {
       "botName": "Zero Two",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/zerotwo/02.mp4",
       "botImage1": "https://images3.alphacoders.com/949/949253.jpg",
@@ -54,8 +67,11 @@
       "botImage5": "https://images4.alphacoders.com/907/907474.jpg",
       "botImage6": "https://images4.alphacoders.com/923/923051.jpg",
       "noCMD": "Hey $1! 😊 Invalid command! 🚫 Type $2help or hit the button below for my commands. Zerotwo's here to help! 🤖💕"
-    },
-    "charID5": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Chika MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/chika/chika.mp4",
       "botImage1": "https://images4.alphacoders.com/100/1002134.png",
@@ -65,8 +81,11 @@
       "botImage5": "https://images3.alphacoders.com/122/1225194.png",
       "botImage6": "https://wallpapercave.com/wp/wp4624851.jpg",
       "noCMD": "Oops, $1! 🙈 Invalid command! 😅 Type $2help or hit the button below to see my commands. Chika's here to help you out! 💖✨"
-    },
-    "charID6": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Miku Nakano MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/kanao/miku.mp4",
       "botImage1": "https://wallpapercave.com/wp/wp10524580.jpg",
@@ -76,8 +95,11 @@
       "botImage5": "https://images7.alphacoders.com/129/1294874.jpg",
       "botImage6": "https://wallpapercave.com/wp/wp5758284.jpg",
       "noCMD": "Oh no, $1! 💔 Invalid command! 🚫 Type $2help or tap the button below to see all of my commands. Don't worry, I'm here to help you out! 🤗💕 "
-    },
-    "charID7": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Marin Kitagawa MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/kitigawa/marin.mp4",
       "botImage1": "https://images2.alphacoders.com/125/1257915.jpg",
@@ -87,8 +109,11 @@
       "botImage5": "https://images7.alphacoders.com/121/1211490.jpg",
       "botImage6": "https://images3.alphacoders.com/122/1223868.png",
       "noCMD": "Sorry, $1  but I can't find that command! 🙇‍♂️\nWhy not try using my $2help command? Or you can press the button below to see all of my available commands! 💪🔥"
-    },
-    "charID8": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Sakura Matou MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/matou/sakura.mp4",
       "botImage1": "https://i.pinimg.com/236x/dd/77/d2/dd77d2da65e289bfb7dfda2b933bc34c.jpg",
@@ -98,8 +123,11 @@
       "botImage5": "https://i.pinimg.com/236x/fc/7b/29/fc7b29896f5a327d6899f80ce4ceb5ea.jpg",
       "botImage6": "https://i.pinimg.com/236x/54/39/8b/54398b0e56cb2ce90f5426fd95434d8b.jpg",
       "noCMD": "Oopsie, $1! 🙊 Invalid command! 🚫 Type $2help or hit the button below to see my list of commands. Don't worry, I'm here to assist you! 🤗🌸"
-    },
-    "charID9": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Naruto Uzumaki MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/uzumaki/naruto.mp4",
       "botImage1": "https://i.pinimg.com/564x/e1/ed/59/e1ed59776d452afcfad94390c2fb78c9.jpg",
@@ -109,8 +137,11 @@
       "botImage5": "https://i.pinimg.com/564x/fe/8a/bf/fe8abfdea39fe84d716de126539a07bf.jpg",
       "botImage6": "https://i.pinimg.com/736x/72/8b/ec/728becc83aa244b835152590df7be400.jpg",
       "noCMD": "Sorry, $1  but I can't find that command! 🙇‍♂️\nWhy not try using my $2help command? Or you can press the button below to see all of my available commands! 💪🔥"
-    },
-    "charID10": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Lucy Heartfilia MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/lucy/lucy.mp4",
       "botImage1": "https://images6.alphacoders.com/477/477459.jpg",
@@ -120,8 +151,11 @@
       "botImage5": "https://images6.alphacoders.com/674/674590.jpg",
       "botImage6": "https://images3.alphacoders.com/231/231090.jpg",
       "noCMD": "Sorry, $1  but I can't find that command! 🙇‍♂️\nWhy not try using my $2help command? Or you can press the button below to see all of my available commands! 💪🔥"
-    },
-    "charID11": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Son Goku",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/goku/goku.mp4",
       "botImage1": "https://i.pinimg.com/736x/75/00/4c/75004ce7032c586c40939172750a3acd.jpg",
@@ -131,8 +165,11 @@
       "botImage5": "https://i.pinimg.com/564x/04/ea/f9/04eaf996d8da7530a7f570ba5a418a33.jpg",
       "botImage6": "https://i.pinimg.com/originals/25/8c/88/258c8822b6a11bdc8d0060bd9bb47df3.gif",
       "noCMD": "Sorry, $1  but I can't find that command! 🙇‍♂️\nWhy not try using my $2help command? Or you can press the button below to see all of my available commands! 💪🔥"
-    },
-    "charID12": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Luffy Monkey D.",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/Monkey D./luffy.mp4",
       "botImage1": "https://i.pinimg.com/564x/c2/0c/34/c20c344e8fcda6ccc3050298bac93df0.jpg",
@@ -142,8 +179,11 @@
       "botImage5": "https://i.pinimg.com/564x/57/c2/78/57c27842ef9d374ed4e55dbbfbc86dd7.jpg",
       "botImage6": "https://i.pinimg.com/564x/45/a9/ed/45a9ed2b2277e9e5cf610d8627d0ef7d.jpg",
       "noCMD": "Sorry, $1  but I can't find that command! 🙇‍♂️\nWhy not try using my $2help command? Or you can press the button below to see all of my available commands! 💪🔥"
-    },
-    "charID13": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Eru Chitanda MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/hyouka/eru.mp4",
       "botImage1": "https://wallpaperaccess.com/full/7867265.png",
@@ -153,8 +193,11 @@
       "botImage5": "https://i.imgur.com/pjxGn45.jpg",
       "botImage6": "https://i.imgur.com/5ZpcaAu.jpg",
       "noCMD": "Sorry, $1  but I can't find that command! 🙇‍♂️\nWhy not try using my $2help command? Or you can press the button below to see all of my available commands! 💪🔥"
-    },
-    "charID14": {
+    }
+  },
+  {
+    "id": "charID0",
+    "data": {
       "botName": "Houtarou Oreki MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/hyouka/oreki.mp4",
       "botImage1": "https://i.pinimg.com/564x/31/8e/05/318e051b6f0784cf58fa4dd42d7653ca.jpg",
