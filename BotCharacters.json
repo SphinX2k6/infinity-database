@@ -12,7 +12,7 @@
       "botImage6": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/infinity/botp4.jpg",
       "noCMD": "🤖 Oops, it seems like I don't recognize that command, $1 senpai! Don't worry, I'm always learning and growing, so maybe it's a feature that can be added in the future! 😊\n\n In the meantime, why not check out all the other cool things I can do? Type $2help to see my full list of commands, or simply click the button below! 👇"
     }
-  }, 
+  },
   {
     "id": "charID1",
     "data": {
@@ -25,9 +25,9 @@
       "botImage5": "https://wallpapercave.com/wp/wp11733435.jpg",
       "botImage6": "https://wallpapercave.com/wp/wp11733458.jpg",
       "noCMD": "No command found, *$1-nyan*! 😿 \nPerhaps you could try using the *$2help* command or press the button below to see all of my available commands? 🤔👇"
-      }
-    },
-   {  
+    }
+  },
+  {
     "id": "charID2",
     "data": {
       "botName": "Makima MD",
@@ -40,9 +40,9 @@
       "botImage6": "https://images7.alphacoders.com/129/1292566.png",
       "noCMD": "No such command programmed, $1. Why don't you try using the $2help command, or press the button below to see a list of all my available commands? 😉"
     }
-   },
+  },
   {
-  "id": "charID0",
+    "id": "charID3",
     "data": {
       "botName": "Denji MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/chain-saw/denji.mp4",
@@ -55,8 +55,8 @@
       "noCMD": "No such command, *$1*! 😔\nLooks like I can't find what you're looking for, but don't worry, I'm always learning new things! Type *$2help* or press the button below to see all of my available commands! 🪚🩸"
     }
   },
-  { 
-    "id": "charID0",
+  {
+    "id": "charID4",
     "data": {
       "botName": "Zero Two",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/zerotwo/02.mp4",
@@ -70,7 +70,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID5",
     "data": {
       "botName": "Chika MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/chika/chika.mp4",
@@ -84,7 +84,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID6",
     "data": {
       "botName": "Miku Nakano MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/kanao/miku.mp4",
@@ -98,7 +98,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID7",
     "data": {
       "botName": "Marin Kitagawa MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/kitigawa/marin.mp4",
@@ -112,7 +112,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID8",
     "data": {
       "botName": "Sakura Matou MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/matou/sakura.mp4",
@@ -126,7 +126,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID9",
     "data": {
       "botName": "Naruto Uzumaki MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/uzumaki/naruto.mp4",
@@ -140,7 +140,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID10",
     "data": {
       "botName": "Lucy Heartfilia MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/lucy/lucy.mp4",
@@ -154,7 +154,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID11",
     "data": {
       "botName": "Son Goku",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/goku/goku.mp4",
@@ -168,7 +168,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID12",
     "data": {
       "botName": "Luffy Monkey D.",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/Monkey D./luffy.mp4",
@@ -182,7 +182,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID13",
     "data": {
       "botName": "Eru Chitanda MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/hyouka/eru.mp4",
@@ -196,7 +196,7 @@
     }
   },
   {
-    "id": "charID0",
+    "id": "charID14",
     "data": {
       "botName": "Houtarou Oreki MD",
       "botVideo": "https://raw.githubusercontent.com/AshAritra/infinity-bot-data-center2k23/main/assets/hyouka/oreki.mp4",
