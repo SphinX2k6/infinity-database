@@ -77,16 +77,16 @@
   {
     "id": "15",
     "name": "Mikasha MD",
-    "buttonText": "setchar 14"
+    "buttonText": "setchar 15"
   },
   {
     "id": "16",
     "name": "Eren MD",
-    "buttonText": "setchar 14"
+    "buttonText": "setchar 16"
   },
   {
     "id": "17",
     "name": "Hinata Hyuga MD",
-    "buttonText": "setchar 14"
+    "buttonText": "setchar 17"
   }
 ]
