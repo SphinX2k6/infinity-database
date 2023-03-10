@@ -142,5 +142,29 @@
       "botLogos": "https://i.pinimg.com/236x/51/80/ea/5180ea3f7c85ffa5692fbb78dae170b1.jpg",
       "buttonText": "setchar 17"
     }
+  },
+  {
+    "id": "18",
+    "data": {
+      "name": "Mirai MD",
+      "botLogos": "https://i.pinimg.com/236x/83/e2/35/83e2350468c14bf226057ffd0a37a178.jpg",
+      "buttonText": "setchar 18"
+    }
+  },
+  {
+    "id": "19",
+    "data": {
+      "name": "Nezuko MD",
+      "botLogos": "https://i.pinimg.com/236x/66/d0/f8/66d0f81990049c3a0147a56413e3852f.jpg",
+      "buttonText": "setchar 19"
+    }
+  },
+  {
+    "id": "20",
+    "data": {
+      "name": "Yor MD",
+      "botLogos": "https://wallpapers.com/images/hd/anime-girls-pfp-yor-forger-fbogiuo2xw19bem7.jpg",
+      "buttonText": "setchar 20"
+    }
   }
 ]
