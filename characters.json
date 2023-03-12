@@ -166,5 +166,12 @@
       "botLogos": "https://wallpapers.com/images/hd/anime-girls-pfp-yor-forger-fbogiuo2xw19bem7.jpg",
       "buttonText": "setchar 20"
     }
+  },{
+    "id": "21",
+    "data": {
+      "name": "Sukuna MD",
+      "botLogos": "https://i.pinimg.com/originals/c4/a6/0f/c4a60f91648a5ceceb484d30f2b19877.png",
+      "buttonText": "setchar 21"
+    }
   }
 ]
