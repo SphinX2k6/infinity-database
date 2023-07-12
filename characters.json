@@ -3,176 +3,231 @@
     "id": "0",
     "data": {
       "name": "Infinity",
-      "botLogos": "https://cdn-icons-png.flaticon.com/512/1745/1745079.png",
-      "buttonText": "setchar 0"
+      "botLogos": "https://cdn-icons-png.flaticon.com/512/1745/1745079.png"
     }
   },
   {
     "id": "1",
     "data": {
       "name": "Power MD",
-      "botLogos": "https://i.pinimg.com/236x/b3/26/a6/b326a65db0ce77e69ea1ee9310c4c809.jpg",
-      "buttonText": "setchar 1"
+      "botLogos": "https://i.pinimg.com/236x/b3/26/a6/b326a65db0ce77e69ea1ee9310c4c809.jpg"
     }
   },
   {
     "id": "2",
     "data": {
       "name": "Makima MD",
-      "botLogos": "https://i.pinimg.com/236x/a0/76/3f/a0763f550b1fb15d04b00a6ae58b4fdd.jpg",
-      "buttonText": "setchar 2"
+      "botLogos": "https://i.pinimg.com/236x/a0/76/3f/a0763f550b1fb15d04b00a6ae58b4fdd.jpg"
     }
   },
   {
     "id": "3",
     "data": {
       "name": "Denji MD",
-      "botLogos": "https://i.pinimg.com/236x/40/e4/69/40e469c9335446c75001ff4a28114a10.jpg",
-      "buttonText": "setchar 3"
+      "botLogos": "https://i.pinimg.com/236x/40/e4/69/40e469c9335446c75001ff4a28114a10.jpg"
     }
   },
   {
     "id": "4",
     "data": {
       "name": "Zero Two MD",
-      "botLogos": "https://i.pinimg.com/236x/40/08/77/4008774f8d67852fa700949d60c66869.jpg",
-      "buttonText": "setchar 4"
+      "botLogos": "https://i.pinimg.com/236x/40/08/77/4008774f8d67852fa700949d60c66869.jpg"
     }
   },
   {
     "id": "5",
     "data": {
       "name": "Chika MD",
-      "botLogos": "https://i.pinimg.com/236x/ad/10/7c/ad107c7f45805a8eac79408075f925ac.jpg",
-      "buttonText": "setchar 5"
+      "botLogos": "https://i.pinimg.com/236x/ad/10/7c/ad107c7f45805a8eac79408075f925ac.jpg"
     }
   },
   {
     "id": "6",
     "data": {
       "name": "Miku Nakano MD",
-      "botLogos": "https://i.pinimg.com/236x/8f/9d/c9/8f9dc9e74ff16d035d7e85f3cf890ea3.jpg",
-      "buttonText": "setchar 6"
+      "botLogos": "https://i.pinimg.com/236x/8f/9d/c9/8f9dc9e74ff16d035d7e85f3cf890ea3.jpg"
     }
   },
   {
     "id": "7",
     "data": {
       "name": "Marin Kitaga MD",
-      "botLogos": "hhttps://i.pinimg.com/236x/a4/4d/73/a44d733a9111644f45af6a60b707353d.jpg",
-      "buttonText": "setchar 7"
+      "botLogos": "hhttps://i.pinimg.com/236x/a4/4d/73/a44d733a9111644f45af6a60b707353d.jpg"
     }
   },
   {
     "id": "8",
     "data": {
       "name": "Sakura Matou MD",
-      "botLogos": "https://i.pinimg.com/236x/5b/0c/7b/5b0c7b64a845676bbf04dffc3cd28858.jpg",
-      "buttonText": "setchar 8"
+      "botLogos": "https://i.pinimg.com/236x/5b/0c/7b/5b0c7b64a845676bbf04dffc3cd28858.jpg"
     }
   },
   {
     "id": "9",
     "data": {
       "name": "Naruto Uzumaki MD",
-      "botLogos": "https://i.pinimg.com/236x/f0/8a/cc/f08acc6f4324576bc87e075ac95df020.jpg",
-      "buttonText": "setchar 9"
+      "botLogos": "https://i.pinimg.com/236x/f0/8a/cc/f08acc6f4324576bc87e075ac95df020.jpg"
     }
   },
   {
     "id": "10",
     "data": {
       "name": "Lucy Heartfilia MD",
-      "botLogos": "https://i.pinimg.com/236x/a1/56/0a/a1560a2745d862bd6e72475671de9cb0.jpg",
-      "buttonText": "setchar 10"
+      "botLogos": "https://i.pinimg.com/236x/a1/56/0a/a1560a2745d862bd6e72475671de9cb0.jpg"
     }
   },
   {
     "id": "11",
     "data": {
       "name": "Son Goku MD",
-      "botLogos": "https://i.pinimg.com/236x/7b/fc/55/7bfc552d74dc62662071be7215bb0127.jpg",
-      "buttonText": "setchar 11"
+      "botLogos": "https://i.pinimg.com/236x/7b/fc/55/7bfc552d74dc62662071be7215bb0127.jpg"
     }
   },
   {
     "id": "12",
     "data": {
       "name": "Luffy Monkey D.",
-      "botLogos": "https://i.pinimg.com/236x/1b/aa/51/1baa516470fc278145718dd2048bdf6d.jpg",
-      "buttonText": "setchar 12"
+      "botLogos": "https://i.pinimg.com/236x/1b/aa/51/1baa516470fc278145718dd2048bdf6d.jpg"
     }
   },
   {
     "id": "13",
     "data": {
       "name": "Eru Chitanda MD",
-      "botLogos": "https://i.pinimg.com/236x/db/e5/84/dbe58446a8bbb3e7a70a5f3cc973a568.jpg",
-      "buttonText": "setchar 13"
+      "botLogos": "https://i.pinimg.com/236x/db/e5/84/dbe58446a8bbb3e7a70a5f3cc973a568.jpg"
     }
   },
   {
     "id": "14",
     "data": {
       "name": "Houtaro Oreki MD",
-      "botLogos": "https://i.pinimg.com/236x/ca/78/1c/ca781c68dadcb24140c6a90b8d5c44e2.jpg",
-      "buttonText": "setchar 14"
+      "botLogos": "https://i.pinimg.com/236x/ca/78/1c/ca781c68dadcb24140c6a90b8d5c44e2.jpg"
     }
   },
   {
     "id": "15",
     "data": {
       "name": "Mikasha MD",
-      "botLogos": "https://i.pinimg.com/236x/4c/f0/a5/4cf0a534fc8b6e89a55a61c53640ee4e.jpg",
-      "buttonText": "setchar 15"
+      "botLogos": "https://i.pinimg.com/236x/4c/f0/a5/4cf0a534fc8b6e89a55a61c53640ee4e.jpg"
     }
   },
   {
     "id": "16",
     "data": {
       "name": "Eren MD",
-      "botLogos": "https://i.pinimg.com/236x/1b/8f/54/1b8f54c9b7bebe0a3705d71ac2e6ee4f.jpg",
-      "buttonText": "setchar 16"
+      "botLogos": "https://i.pinimg.com/236x/1b/8f/54/1b8f54c9b7bebe0a3705d71ac2e6ee4f.jpg"
     }
   },
   {
     "id": "17",
     "data": {
       "name": "Hinata MD",
-      "botLogos": "https://i.pinimg.com/236x/51/80/ea/5180ea3f7c85ffa5692fbb78dae170b1.jpg",
-      "buttonText": "setchar 17"
+      "botLogos": "https://i.pinimg.com/236x/51/80/ea/5180ea3f7c85ffa5692fbb78dae170b1.jpg"
     }
   },
   {
     "id": "18",
     "data": {
       "name": "Mirai MD",
-      "botLogos": "https://i.pinimg.com/736x/e4/d8/18/e4d81896ab7edaa9020e150cc65b43d5.jpg",
-      "buttonText": "setchar 18"
+      "botLogos": "https://i.pinimg.com/736x/e4/d8/18/e4d81896ab7edaa9020e150cc65b43d5.jpg"
     }
   },
   {
     "id": "19",
     "data": {
       "name": "Nezuko MD",
-      "botLogos": "https://i.pinimg.com/236x/66/d0/f8/66d0f81990049c3a0147a56413e3852f.jpg",
-      "buttonText": "setchar 19"
+      "botLogos": "https://i.pinimg.com/236x/66/d0/f8/66d0f81990049c3a0147a56413e3852f.jpg"
     }
   },
   {
     "id": "20",
     "data": {
       "name": "Yor MD",
-      "botLogos": "https://wallpapers.com/images/hd/anime-girls-pfp-yor-forger-fbogiuo2xw19bem7.jpg",
-      "buttonText": "setchar 20"
+      "botLogos": "https://wallpapers.com/images/hd/anime-girls-pfp-yor-forger-fbogiuo2xw19bem7.jpg"
     }
   },
   {
     "id": "21",
     "data": {
       "name": "Sukuna MD",
-      "botLogos": "https://i.pinimg.com/originals/c4/a6/0f/c4a60f91648a5ceceb484d30f2b19877.png",
-      "buttonText": "setchar 21"
+      "botLogos": "https://i.pinimg.com/originals/c4/a6/0f/c4a60f91648a5ceceb484d30f2b19877.png"
     }
-  }
+  },
+  {
+    "id": "22",
+    "data": {
+      "name": "Ayanokoji",
+      "botLogos": "https://w0.peakpx.com/wallpaper/560/503/HD-wallpaper-classroom-elite-ayanokoji-manga-phone-classroom-of-the-elite-school-anime.jpg"
+    }
+  },
+  {
+    "id": "23",
+    "data": {
+      "name": "Ruka 💖",
+      "botLogos": "https://i.pinimg.com/564x/9c/73/16/9c731622eb1a63c51afe3d71f026f5f1.jpg"
+    }
+  },
+  {
+    "id": "24",
+    "data": {
+      "name": "Mizuhara 💕",
+      "botLogos": "https://i.pinimg.com/564x/69/e4/4f/69e44f901ba0c8403ed9350ffd35bac2.jpg"
+    }
+  },
+  {
+    "id": "25",
+    "data": {
+      "name": "Rem",
+      "botLogos": "https://images4.alphacoders.com/764/764738.jpg"
+    }
+  },
+  {
+    "id": "26",
+    "data": {
+      "name": "Sumi",
+      "botLogos": "https://i.pinimg.com/564x/d0/0f/3c/d00f3c4ac23902f01a6c9c82496ce7be.jpg"
+    }
+  },
+  {
+    "id": "27",
+    "data": {
+      "name": "Kaguya 💫",
+      "botLogos": "https://i.pinimg.com/564x/20/65/ac/2065ac00dc81d5e0350a936c93444c61.jpg"
+    }
+  },
+  {
+    "id": "28",
+    "data": {
+      "name": "Yumeko ✨",
+      "botLogos": "https://i.pinimg.com/564x/4e/75/fa/4e75fae84cb9dc6df4707c4ceaa6ef6e.jpg"
+    }
+  },
+  {
+    "id": "29",
+    "data": {
+      "name": "Kurumi 🎇",
+      "botLogos": "https://i.pinimg.com/564x/ae/ff/94/aeff942c0532e15050a012e229dadbb1.jpg"
+    }
+  },
+  {
+    "id": "30",
+    "data": {
+      "name": "Mai 💝",
+      "botLogos": "https://images3.alphacoders.com/994/994295.png"
+    }
+  },
+  {
+    "id": "31",
+    "data": {
+      "name": "Shinbou",
+      "botLogos": "https://wallpapercave.com/wp/wp4650483.jpg"
+    }
+  },
+  {
+    "id": "32",
+    "data": {
+      "name": "Eiko",
+      "botLogos": "https://images6.alphacoders.com/124/1247977.jpg"
+    }
+  }  
 ]
